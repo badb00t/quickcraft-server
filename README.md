@@ -17,8 +17,6 @@ Accept the storage permission popup on your phone when it appears.
 
 ## 3. Download and run the script
 
-Replace the URL below with your script's **raw** GitHub link (open the file on GitHub → click **Raw** → copy the URL), then run:
-
 ```bash
 curl -o https://raw.githubusercontent.com/badb00t/quickcraft-server/refs/heads/main/install_paper_server.sh
 chmod +x install_paper_server.sh
